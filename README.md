@@ -1,4 +1,4 @@
-# Blinkit-Dashboard (Interactive Dashboard Creation using Ms-Excel)
+# Blinkit-Dashboard (Interactive Dashboard Creation using Powerbi)
 ## Project Objective
 This project analyzes Blinkit's order and delivery data to track sales, delivery times, and customer behavior. The dashboard helps identify trends, optimize operations, and support quick decision-making.
 ## Dataset used
